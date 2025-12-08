@@ -168,6 +168,13 @@ footer {
   order: 3;
 }
 
+.songOfResonance-tideborn {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+
 @media (max-width: 800px) {
   .main-nav { flex-direction: column; gap: 20px; text-align: center; }
   .main-nav ul { margin: 0 auto; }
